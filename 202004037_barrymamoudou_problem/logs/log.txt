@@ -1,0 +1,4 @@
+
+[INFO] (dry-run) file1.txt → report_final.txt
+[INFO] (dry-run) data_old.csv → data_2025.csv
+[WARN] note.txt not found, skipping
